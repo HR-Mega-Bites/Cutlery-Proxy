@@ -1,0 +1,26 @@
+{
+  "name": "cutlery-proxy",
+  "version": "1.0.0",
+  "description": "proxy server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "npm": "^5.8.0",
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HR-Mega-Bites/cutlery-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HR-Mega-Bites/cutlery-proxy/issues"
+  },
+  "homepage": "https://github.com/HR-Mega-Bites/cutlery-proxy#readme"
+}
